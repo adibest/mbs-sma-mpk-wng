@@ -1,0 +1,16 @@
+[07/Jul/2020:15:37:52] (I): WordPress Instance Info:
+[07/Jul/2020:15:37:52] (I): Home URL : http://localhost/wordpress
+[07/Jul/2020:15:37:52] (I): Site URL : http://localhost/wordpress
+[07/Jul/2020:15:37:52] (I): WordPress Version : 5.4.2
+[07/Jul/2020:15:37:52] (I): Onboarding Version : 1.0.1
+[07/Jul/2020:15:37:52] (I): Multisite : No
+[07/Jul/2020:15:37:52] (I): Server Info : Apache/2.4.43 (Ubuntu)
+[07/Jul/2020:15:37:52] (I): PHP Version : 7.2.31-1+ubuntu18.04.1+deb.sury.org+1
+[07/Jul/2020:15:37:52] (I): HTTPS : No
+[07/Jul/2020:15:37:52] (I): PHP Max Execution Time : 30
+[07/Jul/2020:15:37:52] (I): PHP Max Input Vars : 1000
+[07/Jul/2020:15:37:52] (I): Max Upload Size : 2097152
+[07/Jul/2020:15:37:52] (I): Plugins:
+[07/Jul/2020:15:37:52] (I): [PLUGIN] Akismet Anti-Spam : v4.1.6 (Automattic)
+[07/Jul/2020:15:37:52] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.5 (ThemeIsle)
+[07/Jul/2020:15:37:52] (I): [PLUGIN] Orbit Fox Companion : v2.9.10 (Themeisle)
